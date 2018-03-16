@@ -2,4 +2,5 @@
 
  - lasso regression 
  - SVM
- 
+ - CNN
+
