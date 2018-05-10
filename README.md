@@ -7,3 +7,5 @@
     - Dataset: CIFAR10
 - GAN Model
   - Dataset: minist
+- RNN
+  - LSTM for action classify
